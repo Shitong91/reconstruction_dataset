@@ -1,0 +1,13 @@
+如何使用show 来看到重建的效果
+
+1. bin/show
+
+2. 选择 reflectance
+
+3. fog Density 0.0
+
+4. Point Size 0.3
+
+5. Colormap  Grey
+
+6. Always all points
